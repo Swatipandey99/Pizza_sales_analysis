@@ -19,10 +19,26 @@ Process:-
 2) Created different Visuals and calculated feild using formula
 3) Created insightful dashboard 
 
+
+Overview:-
+
+Total Revenue: The pizza sales generated a total revenue of 850,636, with the "classic" pizza type contributing the highest revenue, followed by the "supreme" category. The "veggie" category was the least sold.
+
+Day-wise Sales Trend: Pizzas were most popular on Fridays, followed by Thursdays and Saturdays. This trend suggests a potential correlation with end-of-week gatherings and celebrations, as Friday is typically the last working day for many, encouraging customers to dine out or order in.
+
+Category Sales Insights: The "classic" category had the highest order count, while the "chicken" category had the lowest. This difference may indicate a pricing effect, where "classic" pizzas are likely priced more affordably compared to "chicken" pizzas, which could be a premium offering.
+
+Peak Sale Hours: The busiest times for pizza sales were observed around 12 PM and 6 PM, aligning with typical lunch and dinner times.
+
+
+
 -- Creating Visulas Using Tableau Desktop
 Dashboard Interface :- https://public.tableau.com/app/profile/swati.pandey3244/viz/Book1_17315126915870/Dashboard2#1
 
 
 Dashboard :- ![Dashboard 2](https://github.com/user-attachments/assets/71ec6d69-93aa-4c8f-a8e9-8e63b675d335)
+
+
+
 
 
